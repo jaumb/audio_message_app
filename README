@@ -1,0 +1,1 @@
+    I made this app as part of a software engineering project in the fall 2016 semester. I began with the wifi_audio_app example found in the Texas Instruments CC3200 LaunchPadXL SDK and modified it to stream audio to and from a predefined server. Please see the audio app overview and summary documents for more details on the project.
